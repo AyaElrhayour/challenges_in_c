@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main() {
     //nbr c'est le nombre que nous souhaitons comparer
